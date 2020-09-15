@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ASSIGNMENTOOPQ3
+namespace ooplabassignmentQ2
 {
     static class Program
     {
